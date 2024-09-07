@@ -16,6 +16,10 @@ A simple React Native application to manage and view flight details. Users can a
 - **styles/**: Contains style-related files (e.g., colors.ts).
 - **utils/**: Includes hardcoded data (e.g., flightData.ts).
 
+## Demonstration
+https://github.com/user-attachments/assets/0ed5eb9b-01c6-49cd-8786-312cb617115a
+
+
 ## Installation
 
 1. **Clone the repository**:
